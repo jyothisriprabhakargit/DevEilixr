@@ -1,0 +1,13 @@
+/* Custom style (optional) */
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #f4f9f4;
+}
+
+h1 {
+    color: #2e7d32;
+}
+
+button {
+    background-color: #66bb6a;
+}
