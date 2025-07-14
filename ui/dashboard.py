@@ -64,7 +64,7 @@ if st.button("✅ Offset Now"):
     nonce = w3.eth.get_transaction_count(account.address)
 
     # Payment Transaction
-    offset_wallet = "0xaD27BD492e9AFe5C3f70A78e05B22DFf2E23f456"
+    offset_wallet = "0xaD27BDXXXXXXXXXXXXXXXXXXXXXX"
     payment_tx = {
         'from': account.address,
         'to': Web3.to_checksum_address(offset_wallet),
