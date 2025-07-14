@@ -2,7 +2,7 @@
 
 # 🛠 Project Title - Carbon Offset Agent SDK 
 # Team Name - DevElixir
-
+# Team Members - Jyothisri Prabhakar , Balagajaraj Prabhakar.
 Welcome to our submission for the Agentic Ethereum Hackathon by Reskilll & Geodework! This repository includes our project code, documentation, and related assets.
 
 ---
